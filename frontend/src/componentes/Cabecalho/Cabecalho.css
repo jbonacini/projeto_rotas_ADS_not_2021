@@ -1,0 +1,13 @@
+.cabecalho {
+  height: 10vh;
+  margin: 0.2% ;
+  background-image: url(https://wallpaperaccess.com/full/486695.jpg);
+  /*background-color: white;*/
+
+}
+
+h1 {
+  text-align: center;
+  color: rgb(249, 249, 250);
+  
+}

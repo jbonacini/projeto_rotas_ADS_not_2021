@@ -1,0 +1,20 @@
+.rodape {
+  height: 5vh;
+  border: 1px solid white;
+  margin: 0.2%;
+  background-color: rgb(2, 0, 0);
+
+}
+
+h1 {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 20px;
+  font-weight: bold;
+  color:rgb(2, 0, 0);
+}
+
+svg {
+  color: whitesmoke;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-style: italic;
+}

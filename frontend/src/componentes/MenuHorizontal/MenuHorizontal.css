@@ -1,0 +1,43 @@
+.menuHorizontal {
+  height: 10vh;
+  margin: 0.1% ;
+  background-image: url(https://wallpaperaccess.com/full/486695.jpg);
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.menu {
+  
+  position: fixed;
+  top: 0;
+  width: 100vw;
+}
+
+.navMenu {
+  margin-top: 0.7%;
+}
+.navMenu ul{
+  list-style: none;
+  text-align: left;
+}
+
+.navMenu ul li {
+  display: inline;
+}
+
+.navMenu ul li a{
+  padding-left: 4vw;
+  padding-right: 4vw;
+  display: inline-block;
+  color: rgb(250, 246, 246);
+  text-decoration: none;
+  text-align: justify;
+  text-shadow: 2ch;
+}
+
+.navMenu ul li a:hover {
+  color: rgb(15, 56, 240);
+  font-weight: bold;
+  font-size: 22;
+}
+

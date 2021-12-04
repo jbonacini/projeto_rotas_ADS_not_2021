@@ -1,0 +1,11 @@
+.telefones {
+  height: 60vh;
+  margin: 0.2%;
+  background-image: url(https://wallpaperaccess.com/full/486695.jpg);
+  text-align: center;
+
+}
+
+tbody tr th {
+  width: 10;
+}
